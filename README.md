@@ -25,7 +25,7 @@ The goal of this project is to build a Question-Answering (QA) system that lever
 - Implement an AI-powered solution to extract relevant information from legal case texts.
 
 ## Dataset
-This dataset consists of legal case data, including verdicts, evidence, and related contextual information. We have crawled data from various legal resources to build this dataset.
+This dataset consists of legal case data in Bahasa Indonesia, including verdicts, evidence, and related contextual information. We have crawled data from various legal resources to build this dataset.
 
 ### Crawling:
 - The dataset was crawled from legal websites using web scraping techniques.
